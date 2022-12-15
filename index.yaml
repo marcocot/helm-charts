@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  actual-server:
+  - apiVersion: v2
+    appVersion: 22.12.9-alpine
+    created: "2022-12-15T07:40:32.6023885Z"
+    description: Actual, a local-first personal finance tool.
+    digest: a22aad4564cb693cb0194ed63037bdf89f8c3dc1b8ca62c1e1eb5ccfb301caa4
+    name: actual-server
+    type: application
+    urls:
+    - https://github.com/marcocot/helm-charts/releases/download/actual-server-0.1.0/actual-server-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-15T07:40:32.6023978Z"
